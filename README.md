@@ -5,7 +5,7 @@ AI-powered service to generate professional email replies instantly using custom
 ---
 
 ## 🛠️ Technology Stack
-- **Frontend:** React.js, CSS  
+- **Frontend:** React, java-script ,CSS  
 - **Backend:** Java  
 - **APIs:** Google Gemini API  
 - **Security:** API Key & Secret Key management  
